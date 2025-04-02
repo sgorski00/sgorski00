@@ -1,16 +1,12 @@
-## Hi there 👋
+## 🚀 About Me  
+Hi! I'm 25 years old and currently studying mobile and web application development.  
+I specialize in **Java** and **Spring Boot**.
 
-<!--
-**sgorski00/sgorski00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Technologies I work with daily:  
+- **Backend:** Spring ecosystem, Java 21, Flyway
+- **Testing & API Tools:** JUnit5, Mockito, Postman
+- **Databases:** PostgreSQL, MSSQL  
+- **DevOps:** Docker  
+- **Frontend:** Thymeleaf, basic React  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👀 Here you’ll find my projects.
